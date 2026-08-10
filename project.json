@@ -1,0 +1,26 @@
+{
+  "title": "Boston Housing Analysis",
+  "slug": "boston-housing-analysis",
+  "category": "Data Analysis",
+  "summary": "Análisis estadístico del mercado inmobiliario de Boston mediante Python, visualización de datos y pruebas de hipótesis.",
+  "tools": [
+    "Python",
+    "pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "SciPy",
+    "Jupyter Notebook"
+  ],
+  "findings": [
+    "Relación negativa entre lstat y el valor medio de las viviendas",
+    "Relación positiva entre cantidad de habitaciones y valor medio",
+    "Diferencias de valor según antigüedad de las viviendas",
+    "Análisis del efecto de la proximidad al río Charles",
+    "Identificación de relaciones relevantes mediante matriz de correlación"
+  ],
+  "github": "https://github.com/selvajperez/Boston-s-building",
+  "website": "https://www.wildsoft.com.ar",
+  "featured": true,
+  "status": "published"
+}
